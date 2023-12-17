@@ -1,1 +1,1 @@
-# exercixePHP
+# exoPHP
